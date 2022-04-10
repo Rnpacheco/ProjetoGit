@@ -1,3 +1,3 @@
 
 
-Mudoficando o arquivo para um novo commit 
+Modificando o arquivo para um novo commit 
